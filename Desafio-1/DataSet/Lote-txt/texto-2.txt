@@ -1,0 +1,289 @@
+Deepfake: Todo lo que necesitas saber al respecto
+Andrey 8 de diciembre de 2020
+
+Hoy en día, la tecnología moderna está en todas partes. Sin duda, nos ha facilitado la vida. Las personas también la han utilizado para su propio beneficio. Sin embargo, las tecnologías no solo nacieron para beneficiar a la humanidad. Por ejemplo, los deepfakes pueden causar graves problemas y malentendidos en la sociedad.
+
+¿Qué es un Deepfake?
+
+Esta palabra proviene de la combinación de "falso" y "aprendizaje profundo". El aprendizaje profundo es un tipo de algoritmo llamado "redes neuronales" que aprende a replicar patrones analizando grandes conjuntos de datos. Gracias a la capacidad informática del aprendizaje automático, el deepfake puede crear fotos, audios o videos falsos convincentes que muestran a personas haciendo cosas que no hicieron, con un gran potencial para engañar a la audiencia. De hecho, el deepfake es un nuevo tipo de falsificación, más difícil de reconocer gracias a la tecnología moderna.
+
+Según un informe de la startup Deeptrace, a principios de 2019 había aproximadamente 7964 vídeos deepfake en línea, cifra que se disparó a 14 678 nueve meses después. En junio de 2020, un nuevo estudio de Sensity (https://sensity.ai/) revela que se han subido a línea casi 49 081 vídeos deepfake, lo que representa un aumento de más del 330 % desde julio de 2019.
+
+Un poco de historia
+
+Crear imágenes o vídeos manipulados no es nuevo, ni tampoco lo es la manipulación de rostros en imágenes. Sin embargo, el término surgió en 2017 después de que un usuario de Reddit se autodenominara "deepfakes" y compartiera vídeos pornográficos falsificados. Simplemente ponía rostros de famosos en los cuerpos de otras personas. Aquí puedes encontrar algunos ejemplos de este tipo de vídeos: https://sexcelebrity.net/
+
+En una entrevista con la periodista Samantha Cole de Vice Media Group (https://www.vice.com/en/article/bjye8a/reddit-fake-porn-app-daisy-ridley ), este usuario reveló que los códigos que utilizó se basaban en varias bibliotecas de código abierto. Para recopilar suficiente material de imágenes faciales para sus videos, extrajo imágenes de bases de datos como Google, capturas de pantalla de YouTube y sitios de fotos de archivo. Después de un tiempo, el usuario compartió los códigos que utilizó para crear los deepfakes, y varios videos similares se difundieron rápidamente por Internet. El contenido de estos videos pronto atrajo la atención de los medios de comunicación. El usuario fue baneado, sin embargo, muchas plataformas importantes de redes sociales ya han publicado esta información falsa. Poco después de que el usuario publicara sus códigos, surgieron programas que se especializan en crear deepfakes como FaceSwap (un programa basado en escritorio) o FakeApp (un programa basado en dispositivos móviles) y se desarrollaron en versiones más fáciles de usar, lo que hace posible que los usuarios con menos conocimientos digitales creen sus propios deepfakes.
+
+¿Cómo se crea un deepfake?
+
+Las principales técnicas de aprendizaje automático para deepfakes suelen ser una combinación de autocodificadores y redes generativas antagónicas (GAN) https://www.technologyreview.com/2018/02/21/145289/the-ganfather-the-man-whos-given-machines-the-gift-of-imagination/ . Las GAN utilizan dos redes neuronales: un generador y un discriminador. Estas redes compiten constantemente entre sí. De esta manera, permiten que la máquina aprenda rápidamente. El generador intentará crear una imagen realista y el discriminador intentará determinar si se trata de un deepfake o no. Si el generador engaña al discriminador, este utiliza la información recopilada para mejorar su capacidad de juicio. Del mismo modo, si el discriminador determina que la imagen del generador es falsa, la segunda red mejorará en la creación de imágenes falsas. Este es un ciclo sin fin.
+
+¿Por qué debería preocuparme?
+
+Otro problema es que, con el auge de las redes sociales, la información se propaga a un ritmo imparable. Un estudio en Twitter demostró que las personas difunden noticias falsas (https://newslab.org/reasons-spreading-fake-news/) mucho más rápido que las noticias reales. Esto significa que cualquier tipo de información falsa o deepfake puede circular por internet antes de ser eliminada, dañando reputaciones y sembrando el caos entre quienes crecieron con la idea de que ver es creer.
+
+Otra razón para preocuparse por el contenido deepfake es que personalidades importantes también podrían negar sus acciones pasadas. Los videos deepfake parecen tan reales que cualquiera podría afirmar que un clip real es un deepfake.
+
+Los beneficios
+
+Sin embargo, no es tan malo. La tecnología deepfake también tiene usos positivos en muchas industrias, como el cine, el entretenimiento, los videojuegos, las redes sociales, la educación, las comunicaciones digitales, la salud, la ciencia y los negocios.
+
+La industria cinematográfica puede beneficiarse de la tecnología deepfake de múltiples maneras. Por ejemplo, puede mejorar la calidad de los vídeos amateur, recrear escenas clásicas y crear nuevas películas protagonizadas por actores fallecidos. La tecnología deepfake también puede ayudar a crear voces digitales para actores que perdieron la suya debido a enfermedades.
+
+Los deepfakes pueden ayudar a las personas a afrontar la pérdida de seres queridos al devolverle la vida digitalmente a un amigo fallecido. Los científicos también están explorando el uso de GAN para detectar anomalías en rayos X y su potencial para crear moléculas químicas virtuales que aceleren la ciencia de los materiales y los descubrimientos médicos.
+
+
+
+Comprueba tú mismo con qué precisión puedes identificar imágenes generadas por IA en el  Experimento DetectFakes  y, si quieres aprender a detectar deepfakes, consulta nuestro artículo reciente sobre  Cómo distinguir imágenes generadas por IA de fotografías auténticas.
+
+Puede encontrar más de nuestro trabajo en publicaciones en  PNAS , un taller en  IJCAI y  una preimpresión  en arXiv. 
+
+Vea un video del  Simposio sobre desinformación electoral: Cómo combatir la desinformación mediante la verificación de hechos y la detección de deepfakes.
+
+Encuentre nuestra investigación deepfake discutida en las noticias:  Science ,  Scientific American ,  BBC ,  WSJ ,  NYT , y  NPR 
+
+Ahora, aquí hay un extracto de hace un par de años:
+
+¿Cómo detectar un DeepFake? ¿Qué tan buenos son los videos DeepFake? ¿Qué tan bien puede la gente común diferenciar un video manipulado por IA de uno normal, sin alterar? En lugar de intentar explicarlo con palabras, creamos el  sitio web Detect Fakes  para que puedas ver la respuesta por ti mismo. Detect Fakes es un proyecto de investigación diseñado para responder a estas preguntas e identificar técnicas para contrarrestar la desinformación generada por IA. Resulta que hay muchas señales sutiles de que un video ha sido manipulado algorítmicamente. Algunas sutilezas se explican en detalle a continuación.
+
+
+
+El efecto aerógrafo de la izquierda es un ejemplo de manipulación de inteligencia artificial.
+
+Crédito:
+Mate
+
+Ya sabemos que los DeepFakes pueden ser bastante creíbles, pero ¿cuán creíbles son?  El Desafío de Detección de Deepfakes (DFDC) de Kaggle  buscó recientemente una respuesta algorítmica a la pregunta de cómo detectar falsificaciones. La descripción en el sitio web de Kaggle explica: «AWS, Facebook, Microsoft, el Comité Directivo de Integridad de los Medios de la Alianza para la Inteligencia Artificial (PAI) y académicos se han unido para crear el Desafío de Detección de Deepfakes (DFDC). El objetivo del desafío es impulsar a investigadores de todo el mundo a desarrollar tecnologías innovadoras que ayuden a detectar deepfakes y contenido multimedia manipulado». Los ganadores del concurso de Kaggle recibieron un premio de $1,000,000. 
+
+En lugar de perfeccionar el mejor modelo de aprendizaje automático para esta competencia de Kaggle, tenemos curiosidad por conocer las estrategias y técnicas para generar conciencia pública sobre la tecnología DeepFake y ayudar a la gente común a pensar de manera crítica sobre los medios que consumen. 
+
+Planteamos la hipótesis de que la exposición del aspecto de los DeepFakes y la experiencia de detectar sutiles manipulaciones computacionales aumentarán la capacidad de las personas para discernir una amplia gama de manipulaciones de video en el futuro. Por ello, creamos un sitio web llamado Detect Fakes  para mostrar públicamente miles de videos DeepFake y reales, seleccionados y de alta calidad, del conjunto de datos DFDC. La última versión del sitio web muestra 32 videos producidos como parte del Conjunto de Datos Presidenciales DeepFakes.
+
+El experimento Detect Fakes ofrece la oportunidad de aprender más sobre DeepFakes y ver qué tan bien se puede distinguir lo real de lo falso. En lo que respecta a los medios manipulados por IA, no existe una única señal reveladora para detectar una falsificación. Sin embargo, existen varios artefactos de DeepFake que se pueden detectar. 
+
+Presta atención a la cara. Las manipulaciones de DeepFake de alta gama casi siempre son transformaciones faciales. 
+Presta atención a las mejillas y la frente. ¿La piel se ve demasiado lisa o demasiado arrugada? ¿El envejecimiento de la piel es similar al del cabello y los ojos? Los deepfakes pueden presentar incongruencias en algunas dimensiones.
+Presta atención a los ojos y las cejas. ¿Aparecen sombras en lugares donde esperarías? Los deepfakes pueden no representar completamente la física natural de una escena. 
+Presta atención a las gafas. ¿Hay algún deslumbramiento? ¿Hay demasiado deslumbramiento? ¿Cambia el ángulo del deslumbramiento cuando la persona se mueve? Una vez más, es posible que los DeepFakes no representen completamente la física natural de la iluminación.
+Presta atención al vello facial, o a la ausencia del mismo. ¿Parece real? DeepFakes puede añadir o eliminar bigote, patillas o barba. Sin embargo, DeepFakes puede no lograr que las transformaciones del vello facial sean completamente naturales.
+Presta atención a los lunares faciales. ¿Parece real? 
+Presta atención al parpadeo. ¿Parpadea la persona lo suficiente o demasiado? 
+Presta atención a los movimientos de los labios. Algunos deepfakes se basan en la sincronización labial. ¿Se ven naturales?
+Estas ocho preguntas sirven de guía para quienes buscan información sobre DeepFakes. Los DeepFakes de alta calidad no son fáciles de identificar, pero con la práctica, se puede desarrollar la intuición para identificar qué es falso y qué es real. Puedes practicar la detección de DeepFakes en Detect Fakes .
+
+Temas de investigación
+
+Google lanza portal para detectar deepfakes: así funciona SynthID
+Paul Monckton
+
+Compartir
+Escanea archivos digitales y detecta modificaciones invisibles hechas con inteligencia artificial. También señala áreas alteradas y refuerza la lucha contra la desinformación visual.
+20 Mayo de 2025 17.30
+Google lanzó un portal para detectar archivos generados por IA. El nuevo servicio online se llama SynthID Detector Portal y permite escanear imágenes para detectar si fueron creadas o modificadas con inteligencia artificial.
+
+La herramienta analiza los archivos subidos en busca de las marcas de agua SynthID, que Google incorpora automáticamente en los contenidos multimedia producidos con sus propias herramientas de IA. Además, señala las zonas de la imagen que probablemente fueron alteradas, lo que facilita identificar los cambios hechos por la inteligencia artificial en fotos que podrían parecer auténticas.
+
+Por ahora, el sistema solo detecta contenido marcado con la tecnología SynthID de la compañía
+Google sumó recientemente la detección SynthID a Google Photos. Con esa función, los usuarios pueden ver si una imagen fue modificada con el Magic Editor de la compañía.
+
+El nuevo Detector Portal amplía ese alcance: ahora cualquiera puede hacer chequeos similares en distintos tipos de archivos, entre ellos texto e imágenes generados con Gemini, videos creados con Veo y audios producidos con Lyria.
+
+El portal SynthID Detector de Google escanea los archivos cargados en busca de contenido generado por IA.
+El portal SynthID Detector de Google escanea los archivos cargados en busca de contenido generado por IA.
+Portal del detector SynthID de Google: cómo funciona
+Las herramientas de inteligencia artificial de Google incorporan de forma automática marcas de agua invisibles con tecnología SynthID cuando generan imágenes con inteligencia artificial.
+
+Estas marcas resisten modificaciones digitales simples. Las ediciones básicas no las eliminan y se pueden detectar incluso si alguien las comparte online o por aplicaciones de mensajería.
+
+El portal SynthID Detector avisa a los usuarios si detecta una marca de agua SynthID incrustada en un archivo que cargaron.
+
+El portal SynthID Detector de Google identifica las partes de una imagen que tienen más probabilidades de haber sido manipuladas con IA.
+El portal SynthID Detector de Google identifica las partes de una imagen que tienen más probabilidades de haber sido manipuladas con IA.
+ 
+
+Portal SynthID Detector de Google: limitaciones serias
+El portal SynthID Detector representa un primer paso para proteger a los usuarios de desinformación generada con inteligencia artificial, como los deepfakes, y para ayudar a distinguir trabajos originales de contenido sintético creado por IA.
+
+Sin embargo, no puede detectar contenido de plataformas como ChatGPT ni de otras herramientas que no integran SynthID.
+
+Google trabaja para ampliar el uso de esta tecnología más allá de sus propios servicios. En marzo cerró un acuerdo con Nvidia y hoy anunció una nueva alianza con la empresa de verificación de contenido GetReal, que incorporará la detección de SynthID a sus herramientas.
+
+Conclusión
+Las marcas de agua son solo una parte de la respuesta frente a los deepfakes y la manipulación con inteligencia artificial. Siempre van a existir herramientas de código abierto que no están obligadas a incluir marcas identificadoras, lo que complica la detección del contenido que generan.
+
+Hoy puede parecer fácil reconocer cuándo un material fue creado por una IA, pero eso no va a durar. A medida que los medios sintéticos se vuelvan más sofisticados, herramientas como SynthID van a ser clave para diferenciarlos del trabajo hecho por personas.
+
+El portal SynthID Detector de Google ya está disponible para los primeros usuarios de prueba. Hay una lista de espera abierta para periodistas, profesionales de medios e investigadores que quieran acceder.
+
+Cómo detectar deepfakes con la Parte 1: ¿Es posible una detección generalizable de deepfakes?
+Aprovechar las propiedades del contenido generado por IA para detectar deepfakes con aprendizaje automático
+Devansh
+Devansh
+
+Seguir
+15 minutos de lectura
+·
+19 de julio de 2024
+23
+
+
+
+
+Aspectos destacados del ejecutivo (TL;DR del artículo)
+El creciente poder de la IA Generativa, junto con la falta de conocimientos mediáticos actualizados, ha agravado gravemente el potencial de uso indebido de deepfakes para el robo de identidad y el uso de desinformación. Además de los daños económicos, los deepfakes también son especialmente perjudiciales para los sectores más vulnerables de la sociedad digitalmente, lo que dificulta considerablemente la cuantificación de su verdadero riesgo. Por ejemplo, actores maliciosos atacan a adolescentes con deepfakes, lo que les provoca angustia mental, acoso e incluso suicidio.
+
+
+Cómo la IA dificulta aún más la protección de tu hijo adolescente contra la sextorsión en línea . Pronto publicaremos un artículo completo sobre la sextorsión; solo necesito recopilar toda mi investigación.
+
+Una adolescente británica se suicidó después de que sus acosadores escolares compartieran sus fotos falsas.
+Y, por supuesto, el riesgo que corren las empresas y otras instituciones por el fraude financiero impulsado por Deepfakes es bien conocido.
+
+Actualmente, una de las formas de IA adversaria de mayor crecimiento, se prevé que las pérdidas relacionadas con los deepfakes se disparen de 12 300 millones de dólares en 2023 a 40 000 millones de dólares en 2027 , con una asombrosa tasa de crecimiento anual compuesta del 32 %. Deloitte prevé que los deepfakes proliferarán en los próximos años, siendo la banca y los servicios financieros un objetivo principal.
+
+Los deepfakes representan la vanguardia de los ataques de IA adversaria, con un aumento del 3000 % solo el año pasado. Se proyecta que los incidentes de deepfakes aumentarán entre un 50 % y un 60 % en 2024, con entre 140 000 y 150 000 casos a nivel mundial previstos para este año.
+
+Del 60% de la mayoría de los CISO, CIO y líderes de TI entrevistados por Ivanti, temen que sus empresas no estén preparadas para defenderse de las amenazas y ataques impulsados por IA.
+
+-Fuente .
+
+Así que pensé que era hora de escribir un artículo dedicado a los deepfakes, completamente actualizado con investigaciones recientes. Este artículo es la primera parte de una serie de tres partes sobre la detección de deepfakes. El objetivo de esta serie es compartir nuestras experiencias en el desarrollo de sistemas de detección de deepfakes en SVAM para enseñarles cómo construir sistemas de detección de deepfakes que...
+
+Bajo costo : muchas configuraciones de detección de deepfakes "de vanguardia" son demasiado costosas para ejecutarlas a gran escala, lo que limita severamente su utilidad en entornos de gran escala como las redes sociales, donde la desinformación generada por IA es más peligrosa.
+Generalizable: Otras soluciones de detección de deepfakes suelen tener un alcance limitado, ya que están diseñadas para maximizar el rendimiento en determinados puntos de referencia o conjuntos de datos. Esto provoca sobreajuste y no es adecuado para un problema como la detección de deepfakes, donde los métodos de generación cambian rápidamente. Las dos primeras razones explican por qué, a pesar de que se han invertido miles de millones de dólares en la detección de deepfakes, el problema de los deepfakes no ha hecho más que empeorar .
+Rendimiento: Nada de esto importa si no podemos detectar deepfakes con una precisión razonable. Un buen filtro no tiene por qué ser perfecto, pero puede ser una excelente primera capa de defensa.
+En este artículo, demostraré nuestra hipótesis principal: los espacios latentes utilizados para crear deepfakes imprimen en la generación ciertos "artefactos" que podrían ser invisibles para los humanos, pero que pueden detectarse mediante aprendizaje automático . Dado que estos artefactos provienen de espacios latentes, estarán presentes en múltiples métodos de generación. Sus patrones deberían ser transferibles a nuevos métodos de deepfakes, y deberíamos obtener un buen rendimiento mediante una indexación rigurosa en el proceso de extracción de características. Por último, una indexación rigurosa en la extracción de características debería permitirnos ahorrar muchos recursos al no tener que depender de modelos más costosos para la inferencia.
+
+
+Desenmascarando DeepFakes con características sencillas . Adoptamos este enfoque y lo extendemos a generaciones completamente nuevas (en lugar de corregir distribuciones anteriores, como se hizo aquí). Por lo tanto, se ha dedicado mucho entrenamiento a detectar casos en los que alguien se hace pasar por otra persona.
+Para ello, me basaré tanto en investigaciones consolidadas como en los propios experimentos de SVAM con la detección de deepfakes. Aunque hemos contado con recursos mínimos, tanto computacionales como temporales, nuestros resultados han sido excepcionales. A continuación, se presentan algunos resultados destacados de nuestra ronda actual de experimentos:
+
+Nuestro objetivo es clasificar una imagen de entrada en una de tres categorías: real, deepfake (fusionamos el rostro de la persona 1 en la foto de la persona 2 de forma realista. Esta es la técnica tradicional para los deepfakes) y generada por IA (imágenes que utilizan IA para crear desde cero, como ImageGen, DALLE, etc.). Este problema puede ser bastante complejo si consideramos la presencia de Photoshop, filtros y fondos generados por IA en las reuniones de Zoom, Meets y Teams (nuestro principal caso de uso era ayudar a las organizaciones a detectar deepfakes, dado el auge de los fraudes empresariales multimillonarios).
+
+Fuente . Historias como esta fueron la razón de mi gran regreso al mundo de la detección de deepfakes.
+Lo hacemos razonablemente bien tanto en rendimiento numérico (más números compartidos a continuación) como en costo ( nuestro modelo se ejecuta extremadamente rápido, incluso en hardware básico, lo que se ajusta a nuestro objetivo de hacer que esto sea accesible para todos, sin excepciones ).
+Rompimos la convención de usar el 80% de los datos para entrenamiento y el 20% para pruebas. En su lugar, utilizamos más muestras de prueba (2706) que de entrenamiento (2397) para simular un mundo donde los métodos de generación de deepfakes cambian constantemente. A pesar de esto, observamos resultados muy prometedores: nuestros mejores modelos obtienen puntuaciones razonablemente altas y fomentan el aprendizaje. Nuestros mejores modelos alcanzan el 80% y muestran claras mejoras de rendimiento a medida que agregamos datos.
+
+Esto sugiere una gran posibilidad de sobreajuste, lo que no es ideal, pero tenemos varios caminos de mejora en los que estamos trabajando.
+Para comprobar nuestra generalización a fondo, excluimos por completo el conjunto de datos DeepfakeTIMIT de nuestro conjunto de entrenamiento. Quienes estén familiarizados con este conjunto de datos sabrán que contiene muchas imágenes realistas con rostros intercambiados, lo que lo hace perfecto para nuestro caso de uso de "detección de posible fraude/robo de identidad para empresas ".
+
+A pesar de no haber detectado ninguna muestra de este conjunto de datos, nuestros modelos obtuvieron muy buenos resultados: los tres mejores alcanzaron 0,93 (SVC), 0,82 (RandomForest) y 0,8 (XGBoost), respectivamente . También hemos probado esto con otras muestras nuevas, y nuestra generalización se mantiene muy bien, incluso con deepfakes generados recientemente . Esta generalización a métodos/conjuntos de datos nuevos sin entrenamiento adicional es nuestra característica más destacada y es poco común en el sector.
+Como podemos ver en las visualizaciones a continuación, nuestras extracciones de características (aunque relativamente simples) pueden separar nuestras muestras en clases bastante separables (esto significa que la clasificación es más fácil).
+
+Es previsible la superposición entre imágenes reales y deepfakes, ya que la mayoría de las deepfakes son imágenes reales. Sería interesante identificar esa frontera.
+Nuestro trabajo ha dado resultados sumamente prometedores. Sin embargo, en esta etapa, siguen siendo solo eso. Salvo nuestro caso de uso principal (aunque este no siempre es perfecto), no estamos ni cerca de obtener resultados concluyentes. Por lo tanto, considere la idea/filosofía como el primer paso de un viaje posiblemente emocionante, en lugar de un objetivo final difícil. Por lo tanto, aún queda mucho camino por recorrer, y me encantaría su ayuda. Aquí tiene algunas maneras de participar:
+
+Colabora con nosotros para perfeccionarlo. Si tu organización trabaja con deepfakes, contáctanos en devansh@svam.com ( también puedes contactarme en mis redes sociales aquí ) y podemos personalizar la solución base para satisfacer tus necesidades específicas. Piensa en lo felices que eso haría a tus inversores y jefes.
+Dona recursos: Publicaremos una aplicación y un sitio web públicos y gratuitos para ayudar a todos a protegerse de los deepfakes . Naturalmente, esto requerirá muchos recursos. Si tienes recursos disponibles para donar (tiempo, datos, dinero o recursos informáticos), contáctanos y podemos colaborar.
+Comparte esto: cada vez que lo compartes, me presentas a una nueva audiencia. Como alguien que no entiende de estrategias de crecimiento en redes sociales, dependo completamente del boca a boca para expandir nuestra pequeña secta y seguir pagando mi leche con chocolate.
+Como se mencionó anteriormente, también pueden usar esta serie para desarrollar sus propias soluciones de deepfakes competitivas. Si deciden hacerlo, solo les pido que compartan las ideas de su experiencia en el desarrollo. Los deepfakes trascienden cualquier grupo, y todos debemos colaborar de cualquier manera posible para solucionarlos.
+
+Con esto cubierto, cerremos los ojos, respiremos profundamente e invoquemos el nombre de nuestro Señor y Salvador -Dani Olmo- para prepararnos para sumergirnos en el divertido mundo de los DeepFakes.
+
+Si te gusta este artículo, considera suscribirte a AI Made Simple para que pueda dedicar más tiempo a investigar y compartir información sobre temas realmente importantes. Nuestro modelo de pago es a tu gusto, lo que te permite apoyar mi labor de brindar educación en IA de alta calidad a todos por menos de lo que cuesta un café .
+
+Suscríbete a Inteligencia Artificial Simplificada
+Abarcando las implicaciones de ideas importantes en IA desde todos los ángulos: técnico, social y económico. Lea más de 180...
+inteligencia artificial simplificada.substack.com
+
+Ofrezco diversos servicios de consultoría y asesoría. Si quieres explorar cómo podemos colaborar, contáctame a través de mis redes sociales o responde a este correo electrónico.
+
+Antecedentes: Cómo se crean los deepfakes + ¿Existe alguna diferencia entre los deepfakes y las imágenes reales?
+Para profundizar en las soluciones, primero entendamos rápidamente cómo se crean los deepfakes. A continuación, analizaremos rápidamente algunos de los conceptos más importantes del aprendizaje profundo moderno, así que asegúrese de estudiar más allá de este artículo.
+
+La creación de deepfakes generalmente implica el uso de una arquitectura de codificador-decodificador donde el codificador comprime las imágenes faciales en un espacio latente de menor dimensión, capturando características esenciales y los decodificadores toman las representaciones latentes más pequeñas e intentan reconstruir el rostro original con un error mínimo.
+
+
+Fuente de la imagen
+Se entrenan simultáneamente dos autocodificadores: uno para el rostro de origen y otro para el rostro de destino, compartiendo el codificador pero con decodificadores separados. El modelo aprende a reconstruir rostros minimizando la pérdida de reconstrucción. El uso del mismo codificador garantiza que la extracción de características extraiga características comunes en diferentes rostros. Normalmente, esto implica aprender características que involucran expresiones o, más específicamente, los ángulos, orientaciones y distancias entre los rasgos faciales . Mientras tanto, mantener los decodificadores separados garantiza que cada decodificador se ajuste a su rostro asignado, aprendiendo todos los detalles específicos (como modelar mi extraña nariz aguileña y otras facetas de mi atractivo físico).
+
+
+Dediquemos un momento a apreciar esto realmente. La representación codificada mapea los puntos en común (expresiones físicas), mientras que el decodificador específico para cada persona recuerda todos los detalles. Esta es una idea muy elegante, y creo que siempre es importante dar un paso atrás y apreciar estas innovaciones por su belleza. Abordar estas ideas mecánicamente solo hará que el aprendizaje sea más aburrido.
+
+Para generar una falsificación profunda, el rostro de origen se codifica en el espacio latente y luego se decodifica utilizando el decodificador del rostro de destino, intercambiando efectivamente los rostros.
+
+
+Si te sientes un poco más nerd, puedes aplicar técnicas de posprocesamiento, como la fusión y la sincronización, para integrar a la perfección el rostro generado en los fotogramas del vídeo. Métodos avanzados como las Redes Generativas Antagónicas (GAN) y las transferencias de estilo pueden mejorar aún más la calidad y la credibilidad del deep fake (más información en la Parte 2).
+
+Con esto claro, repasemos nuestra tesis central: creemos que este proceso, independientemente de los detalles específicos del modelo o entrenamiento , crea artefactos o huellas digitales que los modelos de aprendizaje automático pueden detectar. Para que esta idea sea viable, necesitamos que se cumplan los siguientes requisitos:
+
+Existe una diferencia significativa entre las imágenes generadas y las reales, aunque no sea evidente a simple vista. Además, estas diferencias pueden extraerse y visualizarse/registrarse mediante algoritmos.
+El uso de estas diferencias permitirá competir con los métodos más modernos de detección de DeepFakes.
+Este enfoque de extracción se puede generalizar a diferentes problemas/variantes. Podemos encontrar evidencia de artefactos en imágenes, vídeos y otras variaciones de baja o alta calidad.
+Dedicaremos el resto del artículo a verificar si esto es cierto. Primero, analizaremos la investigación para ver qué dice.
+
+¿El contenido generado íntegramente con IA deja huellas dactilares?
+Esta es la primera parte que examinaremos. Podemos utilizar la tecnología DeepFakes para crear fotos realistas de personas que nunca han existido . Esto tiene múltiples implicaciones de seguridad en lo que respecta a la trampa (estafadores que crean perfiles falsos para explotar a personas solitarias y vulnerables). La trampa funciona muy bien con la IA, ya que los estafadores pueden usar la capacidad de la IA para crear imágenes atractivas, voces sintéticas y mantener conversaciones básicas, lo que podría ser suficiente para atraer a víctimas desprevenidas. Echa un vistazo a las fotos de algunos modelos generados por IA a continuación. Pinky es especialmente realista, y probablemente no dudaría en asumir que es una persona real si viera la foto en persona.
+
+
+Fuente
+Como dato interesante, las modelos/novias de IA se están volviendo muy populares en Instagram y otras plataformas (soy demasiado mayor para apreciarlo, pero no tengo ningún problema con ellas, ya que no engañan a nadie). Las modelos de IA están ganando mucha popularidad en línea. Aitana López es una modelo de fitness con más de 300.000 seguidores en Instagram , mientras que Emilly Pelegrini es considerada la modelo más sexy del mundo. También está Lexi Love, quien gana más de 30.000 dólares al mes acompañando a una persona solitaria e interpretando el papel de la "novia perfecta".
+
+Recibe las historias de Devansh en tu bandeja de entrada
+Únase a Medium de forma gratuita para recibir actualizaciones de este escritor.
+
+Introduce tu correo electrónico
+Suscribir
+Lily Rain es otra influencer virtual famosa por las fotos de sus viajes por el mundo. A pesar de la inteligencia artificial de Rain, sus seguidores encuentran cautivadoras sus imágenes de todo el mundo y no parece importarles que no sea real. Según la creadora de Rain, ella crea un hueco en el mercado de influencers de viajes creando imágenes impresionantes sin viajar realmente, lo que ahorra tiempo y dinero. Además, puede adaptar sus fotos con diferentes estaciones y viajes de moda, como una celebridad.
+
+No tenía personas viviendo indirectamente a través de un modelo de IA en mi cartón de bingo. Una pregunta para todos los psicólogos: ¿por qué la gente se siente atraída por estos influencers de IA? ¿Acaso quienes se emocionan cuando el modelo de IA viaja activan circuitos similares a los nuestros cuando leemos historias de ficción? Si no es así, ¿cuáles son las diferencias?
+
+
+Volviendo al tema, ¿podemos detectar perfiles falsos que podrían estar incurriendo en trampas? Resulta que existe la posibilidad:
+
+Algunos autores proponen analizar el flujo interno de la GAN para detectar diferentes artefactos entre imágenes reales y falsas. En [55], los autores plantearon la hipótesis de que el color es notablemente diferente entre las imágenes de cámara reales y las imágenes de síntesis falsas. Propusieron un sistema de detección basado en características de color y una Máquina de Vectores de Soporte (SVM) lineal para la clasificación final, logrando un AUC final del 70,0% para el mejor rendimiento al evaluar con el conjunto de datos NIST MFC2018 [62].
+
+- DeepFakes y más allá: un estudio sobre manipulación facial y detección de falsificaciones
+
+Tenga en cuenta que el rendimiento se logró utilizando SVMs y funciones de color. Estos son solo los conceptos básicos. Añadir más será fácil y producirá resultados sorprendentes. Sin embargo, esto no es todo. Resulta que podría ser posible diferenciar entre las diferentes GAN (e incluso entre diferentes instancias de la misma arquitectura) utilizando estas huellas digitales.
+
+Desafortunadamente, las imágenes realistas generadas por GAN representan serias amenazas para la seguridad, empezando por una posible avalancha de contenido multimedia falso, por lo que se necesitan urgentemente contramedidas forenses para este tipo de contenido. En este trabajo, demostramos que cada GAN deja su huella específica en las imágenes que genera, al igual que las cámaras reales marcan las imágenes adquiridas con rastros de su patrón de fotorrespuesta no uniforme. Experimentos de identificación de fuentes con varias GAN populares demuestran que estas huellas representan un recurso valioso para los análisis forenses.
+
+- ¿Las GAN dejan huellas dactilares artificiales?
+
+Esto no sólo es muy prometedor para las falsificaciones profundas, sino que comparar y contrastar diferentes huellas dactilares también podría conducir a algunas investigaciones de transparencia interesantes en el aprendizaje profundo.
+
+Sobre la identificación intercambiada (deepfakes tradicionales)
+Esto es, en muchos sentidos, la estrella del espectáculo, dado el robo de identidad que ya ocurre con esta tecnología. Afortunadamente, resulta que los DeepFakes dejan un par de artefactos que pueden detectarse.
+
+
+Exponiendo videos deepfake mediante la detección de artefactos de distorsión facial
+Este es un gran logro para nuestro sistema. Dedicaremos mucho más tiempo a la extracción de características en P2, que estará mucho más enfocada en la ingeniería, pero por ahora, es importante apreciar que múltiples publicaciones de investigación demuestran nuestro...
+
+
+“MesoNet: una red compacta de detección de falsificaciones de vídeo facial ” Otro hallazgo interesante proporciona prueba de que podemos usar estos artefactos para detectar DeepFakes.
+También está el trabajo de Intel en la detección del flujo sanguíneo para detectar generaciones de IA, y muchas otras técnicas que podríamos mencionar que respaldan esto. Pero eso sería simplemente repetir lo que ya está dicho. Así que ahora, veamos si podemos convertir esta idea teóricamente sólida en una solución prácticamente funcional.
+
+Experimentos de SVAM con la detección de deepfakes
+Hasta ahora, nuestros experimentos con la detección de Deepfake se han dividido en tres etapas, cada una de las cuales intenta cumplir requisitos específicos.
+
+Etapa 0: Pruebas preliminares
+Esta fue nuestra fase preliminar, donde nos centramos en desarrollar algo muy básico para el caso de uso de detección de fraude empresarial. Nos preocupamos principalmente por perfeccionarlo para una demostración. Si me siguen en LinkedIn o están en el chat grupal, en esta etapa envié un enlace solicitando comentarios de los usuarios. En este caso, el conjunto total de datos era inferior a 200 (tanto de entrenamiento como de prueba) y el objetivo era simplemente demostrar que podíamos usar métodos preexistentes para extraer características razonablemente funcionales.
+
+Basándonos tanto en la demostración como, especialmente, en los comentarios de los usuarios, aprendimos algunas cosas:
+
+Fuimos bastante buenos en la tarea principal, lo cual fue agradable, considerando lo débil que era nuestro sistema.
+Tanto nuestra generalización como nuestra robustez fueron terribles.
+Habíamos submuestreado las imágenes reales, por lo que nuestro modelo era muy impulsivo y calificaba cualquier cosa ligeramente extraña de deepfake.
+En esta etapa solo teníamos clasificación binaria ya que el usuario principal ya nos había dicho que realmente no le importaba detectar generaciones puramente de IA.
+
+El proyecto no me dio los millones + la fama instantánea que espero cada vez que hago algo, pero fue lo suficientemente bueno como para llevar el proyecto al siguiente nivel (ahora que lo pienso, hice todo ese trabajo para darme más trabajo, lo cual es un comportamiento muy extraño de mi parte).
+
+Etapa 1: Iteración temprana 1: Escalamiento básico
+En esta etapa, aumentamos significativamente el número de muestras en nuestro conjunto de datos. Esto nos permitió ajustar un poco más nuestro extractor de características, hasta que logramos crear representaciones muy separables.
+
+
+Esto se reflejó en un rendimiento muy alto para los modelos de aprendizaje automático (múltiples modelos >0,98). Nuestro principal activo, Random Forests, alcanzó un rendimiento perfecto, lo cual no nos dejó muy satisfechos.
+
+
+
+Cada vez que veo un rendimiento tan sospechosamente alto, inmediatamente comienzo a romper cosas para ver las limitaciones de la dirección, que era el objetivo de nuestra etapa actual.
+
+Etapa 2: Escalamiento básico + generalización
+Esta era nuestra etapa actual, donde nos centramos en probar la generalización de nuestra IA. Esto implicó añadir numerosas muestras y usar deliberadamente muchas muestras reservadas. Los resultados se compartieron en este resumen. En resumen: nuestros mejores modelos tienen un rendimiento razonablemente alto, costos muy bajos y muestran una sólida generalización. Presentan una gran diferencia entre el rendimiento de entrenamiento y validación, lo que sugiere un sobreajuste. Resolver esto es importante, pero sin restarle importancia al desafío, es muy factible.
+
+Analizaremos algunos métodos para lograrlo en la segunda parte, donde hablaremos con mucho más detalle sobre la ingeniería de aprendizaje automático de principio a fin. Estén atentos.
+
+
+
+

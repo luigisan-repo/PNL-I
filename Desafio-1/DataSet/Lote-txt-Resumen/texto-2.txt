@@ -1,0 +1,34 @@
+Deepfake: Todo lo que necesitas saber al respecto
+Andrey 8 de diciembre de 2020
+
+Hoy en día, la tecnología moderna está en todas partes. Sin duda, nos ha facilitado la vida. Las personas también la han utilizado para su propio beneficio. Sin embargo, las tecnologías no solo nacieron para beneficiar a la humanidad. Por ejemplo, los deepfakes pueden causar graves problemas y malentendidos en la sociedad.
+
+¿Qué es un Deepfake?
+
+Esta palabra proviene de la combinación de "falso" y "aprendizaje profundo". El aprendizaje profundo es un tipo de algoritmo llamado "redes neuronales" que aprende a replicar patrones analizando grandes conjuntos de datos. Gracias a la capacidad informática del aprendizaje automático, el deepfake puede crear fotos, audios o videos falsos convincentes que muestran a personas haciendo cosas que no hicieron, con un gran potencial para engañar a la audiencia. De hecho, el deepfake es un nuevo tipo de falsificación, más difícil de reconocer gracias a la tecnología moderna.
+
+Según un informe de la startup Deeptrace, a principios de 2019 había aproximadamente 7964 vídeos deepfake en línea, cifra que se disparó a 14 678 nueve meses después. En junio de 2020, un nuevo estudio de Sensity (https://sensity.ai/) revela que se han subido a línea casi 49 081 vídeos deepfake, lo que representa un aumento de más del 330 % desde julio de 2019.
+
+Un poco de historia
+
+Crear imágenes o vídeos manipulados no es nuevo, ni tampoco lo es la manipulación de rostros en imágenes. Sin embargo, el término surgió en 2017 después de que un usuario de Reddit se autodenominara "deepfakes" y compartiera vídeos pornográficos falsificados. Simplemente ponía rostros de famosos en los cuerpos de otras personas. Aquí puedes encontrar algunos ejemplos de este tipo de vídeos: https://sexcelebrity.net/
+
+En una entrevista con la periodista Samantha Cole de Vice Media Group (https://www.vice.com/en/article/bjye8a/reddit-fake-porn-app-daisy-ridley ), este usuario reveló que los códigos que utilizó se basaban en varias bibliotecas de código abierto. Para recopilar suficiente material de imágenes faciales para sus videos, extrajo imágenes de bases de datos como Google, capturas de pantalla de YouTube y sitios de fotos de archivo. Después de un tiempo, el usuario compartió los códigos que utilizó para crear los deepfakes, y varios videos similares se difundieron rápidamente por Internet. El contenido de estos videos pronto atrajo la atención de los medios de comunicación. El usuario fue baneado, sin embargo, muchas plataformas importantes de redes sociales ya han publicado esta información falsa. Poco después de que el usuario publicara sus códigos, surgieron programas que se especializan en crear deepfakes como FaceSwap (un programa basado en escritorio) o FakeApp (un programa basado en dispositivos móviles) y se desarrollaron en versiones más fáciles de usar, lo que hace posible que los usuarios con menos conocimientos digitales creen sus propios deepfakes.
+
+¿Cómo se crea un deepfake?
+
+Las principales técnicas de aprendizaje automático para deepfakes suelen ser una combinación de autocodificadores y redes generativas antagónicas (GAN) https://www.technologyreview.com/2018/02/21/145289/the-ganfather-the-man-whos-given-machines-the-gift-of-imagination/ . Las GAN utilizan dos redes neuronales: un generador y un discriminador. Estas redes compiten constantemente entre sí. De esta manera, permiten que la máquina aprenda rápidamente. El generador intentará crear una imagen realista y el discriminador intentará determinar si se trata de un deepfake o no. Si el generador engaña al discriminador, este utiliza la información recopilada para mejorar su capacidad de juicio. Del mismo modo, si el discriminador determina que la imagen del generador es falsa, la segunda red mejorará en la creación de imágenes falsas. Este es un ciclo sin fin.
+
+¿Por qué debería preocuparme?
+
+Otro problema es que, con el auge de las redes sociales, la información se propaga a un ritmo imparable. Un estudio en Twitter demostró que las personas difunden noticias falsas (https://newslab.org/reasons-spreading-fake-news/) mucho más rápido que las noticias reales. Esto significa que cualquier tipo de información falsa o deepfake puede circular por internet antes de ser eliminada, dañando reputaciones y sembrando el caos entre quienes crecieron con la idea de que ver es creer.
+
+Otra razón para preocuparse por el contenido deepfake es que personalidades importantes también podrían negar sus acciones pasadas. Los videos deepfake parecen tan reales que cualquiera podría afirmar que un clip real es un deepfake.
+
+Los beneficios
+
+Sin embargo, no es tan malo. La tecnología deepfake también tiene usos positivos en muchas industrias, como el cine, el entretenimiento, los videojuegos, las redes sociales, la educación, las comunicaciones digitales, la salud, la ciencia y los negocios.
+
+La industria cinematográfica puede beneficiarse de la tecnología deepfake de múltiples maneras. Por ejemplo, puede mejorar la calidad de los vídeos amateur, recrear escenas clásicas y crear nuevas películas protagonizadas por actores fallecidos. La tecnología deepfake también puede ayudar a crear voces digitales para actores que perdieron la suya debido a enfermedades.
+
+Los deepfakes pueden ayudar a las personas a afrontar la pérdida de seres queridos al devolverle la vida digitalmente a un amigo fallecido. Los científicos también están explorando el uso de GAN para detectar anomalías en rayos X y su potencial para crear moléculas químicas virtuales que aceleren la ciencia de los materiales y los descubrimientos médicos.

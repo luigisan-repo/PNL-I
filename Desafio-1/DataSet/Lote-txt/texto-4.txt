@@ -1,0 +1,166 @@
+¿Qué es la inteligencia artificial (IA)?
+Inteligencia Artificial IA en Mendoza
+La Inteligencia Artificial (IA) es una rama de la informática que se encarga del estudio y desarrollo de sistemas capaces de realizar tareas que requieren inteligencia humana, como la percepción, el razonamiento y la toma de decisiones. En la actualidad, la IA se está convirtiendo en una tecnología cada vez más presente en nuestra vida cotidiana, desde asistentes virtuales hasta sistemas de recomendación y diagnóstico médico.
+
+¿Por qué es importante que los niños aprendan de IA?
+Es importante que los niños aprendan sobre la IA por varias razones. En primer lugar, la IA es una tecnología que está transformando el mundo en el que vivimos, por lo que es fundamental que los niños entiendan su funcionamiento y sus implicaciones para el futuro. En segundo lugar, la IA es una herramienta que puede ser utilizada para resolver problemas complejos en áreas como la medicina, la energía y el medio ambiente, por lo que es importante que los niños se familiaricen con su potencial. En tercer lugar, la IA es una disciplina interdisciplinaria que combina conocimientos de matemáticas, estadística, programación y otras áreas, lo que la convierte en una herramienta valiosa para el desarrollo de habilidades STEM en los niños.
+
+La enseñanza de la IA puede llevarse a cabo de diversas formas, desde la programación de robots y la creación de chatbots hasta la experimentación con algoritmos de aprendizaje automático. A través de estas actividades, los niños pueden aprender a diseñar soluciones creativas a problemas, a trabajar en equipo y a desarrollar su pensamiento crítico.
+
+Conclusiones
+En resumen, la IA es una tecnología que está transformando el mundo y es importante que los niños aprendan sobre ella para entender su funcionamiento, conocer sus aplicaciones y desarrollar habilidades STEM. La enseñanza de la IA puede ser una actividad lúdica y creativa que estimule el pensamiento crítico y la resolución de problemas en los niños.
+
+Por qué tu vida no sería la misma sin la inteligencia artificial
+De la oncología a los servicios de 'streaming', el papel de la IA es cada vez mayor
+Redes neuronales de inteligencia artificial
+Imagen: Dreamstime.
+G. Urdiales
+Madridicon-related 8:00 - 13/07/2021
+Aunque nos hemos pasado décadas imaginando cómo cambiaría un futuro más o menos inmediato -al menos, a través de obras de ficción-, la inteligencia artificial (IA) es hoy ya una realidad y una parte casi omnipresente de nuestra actividad diaria. De hecho, es muy posible que estés leyendo esta noticia gracias a ella: si has llegado aquí por una sugerencia de Google o animado por tu feed de Facebook, voilà, la IA ha formado parte del proceso. Puede parecer poco impresionante al lado de creaciones como HAL 9000, la inteligencia de 2001: Una odisea del espacio o Samantha, la asistente virtual a la que Scarlett Johansson ponía la voz en Her, pero lo cierto es que está mucho más presente en tu día a día de lo que te imaginas.
+
+Es más, la IA nos hace la vida más sencilla. Los algoritmos que nos recomiendan contenido interesante, como este, son, en efecto, IA. Pero también lo es la manera en que nuestro correo clasifica de forma automática los mensajes que recibimos y bloquea correctamente la mayor parte del spam que llega a nuestra bandeja de entrada. La IA es responsable, también, de las sugerencias que nos ofrecen plataformas de streaming como Netflix, HBO o Prime, que no solo diseñan una propuesta de entretenimiento ajustada a cada persona, sino que incluso eligen la presentación más atractiva según nuestro perfil.
+
+También hay IA tras la voz de asistentes virtuales como OK Google, Siri o Alexa, o de servicios en los que intervienen complejos sistemas logísticos y de asignación de precios. Así, Amazon la emplea para predecir cuántas personas están dispuestas a comprar cierto producto, para entender mejor qué buscan sus clientes y por qué y, en función de sus conclusiones, organizar de manera óptima la distribución de sus productos en almacenes, de manera que el consumidor los pueda recibir en un día... o incluso en dos horas.
+
+Lejos de limitar esta tendencia, la pandemia de Covid-19 ha evidenciado su consolidación. La IA fue un recurso muy útil a la hora de predecir la probabilidad de contagio en función de nuestros hábitos sociales. Las restricciones a la movilidad propiciaron el auge de los chatbots, que respondieron todo tipo de consultas cuando resultaba difícil -o poco recomendable- desplazarse para obtener respuestas. Al mismo tiempo, la visión artificial -las técnicas que permiten a los ordenadores adquirir, procesar, analizar y comprender imágenes- se empleó en sistemas que ayudaron a mantener la distancia social y el aprendizaje automático -otra vertiente de la IA- contribuyó a modelar y predecir los efectos de una reapertura de la economía.
+
+El uso de la IA podría elevar la productividad un 40% en economías avanzadas en 2035 -un 11% en España-
+Es más, la IA tiene un protagonismo creciente en el ámbito de la salud. Los datos de nuestras búsquedas en internet o nuestros contactos en redes sociales brindan información útil para construir una imagen de nuestro entorno y nuestros hábitos y, por tanto, información útil sobre nuestro estado de salud presente y futuro. Por otro lado, parece claro que los ordenadores son capaces de realizar algunas tareas diagnósticas mejor que los humanos: un estudio publicado en la revista Nature en enero de 2020 acreditó que la IA es más precisa a la hora de detectar el cáncer de mama a partir de mamografías.
+
+El éxito de estas y otras iniciativas explica que las compañías cada vez dediquen más recursos al desarrollo de soluciones basadas en IA. Una encuesta de la consultora Gartner realizada el pasado septiembre entre más de 200 compañías y profesionales de tecnologías de la información revela que el impacto de la pandemia no ha alterado esta tendencia: el 42% de las organizaciones mantuvo su inversión en IA y un 24% decidió aumentarla.
+
+"Las compañías están evolucionando hacia un nuevo paradigma donde los datos se desacoplan de sus aplicaciones origen y empiezan a ser considerados un activo en sí mismos de gran valor para las empresas", explica Juan José Casado, Director de Data & Analytics de Repsol.
+
+Algunas empresas se han anticipado a esta transformación con planes que reservan un papel protagonista a la IA. Un ejemplo es ARiA, la plataforma analítica de big data de Repsol, creada hace dos años y que la energética comercializará de la mano de Accenture: "ARiA es una plataforma de Big Data Analytics que recopila datos de múltiples fuentes, los extrae y los lleva a la nube. En una compañía en la que manejamos cantidades ingentes de información de muchas áreas diferentes, es de vital importancia clasificar los datos en los llamados data lakes, repositorios capaces de almacenar grandes volúmenes de datos en bruto, para después catalogarlos, medir su calidad y sus posibilidades de uso", explica Juan José Casado.
+
+En 2020 el 42% de las organizaciones mantuvo su inversión en IA y un 24% decidió aumentarla
+En las próximas décadas iniciativas como esta serán la norma, a medida que se constaten sus beneficios y baje su coste. De hecho, ARiA, que nació como un desarrollo para uso propio de Repsol, ahora, y en colaboración con Accenture, también "servirá para ayudar a otras empresas a acelerar el uso del big data y desplegar la inteligencia artificial a escala", explica Juan José Casado. El uso de la IA podría elevar la productividad nada menos que un 40% en economías avanzadas en 2035, según un estudio de Accenture y Frontier Economics -y para España, el aumento estimado es del 11%-.
+
+La IA lleva con nosotros desde los años 50 del siglo pasado, pero su época dorada no ha hecho más que comenzar.
+
+
+
+Cómo sería nuestra vida sin la IA
+Entiende por qué necesitas la IA y las facilidades que te puede aportar.
+
+La Inteligencia Artificial (IA), un término que antes parecía sacado de una película de ciencia ficción, ahora es una realidad completamente presente en nuestras vidas. Desde los motores de búsqueda hasta los asistentes virtuales, la IA está transformando la forma en que interactuamos con la tecnología y el mundo laboral.
+
+En menos de 5 años será impensable trabajar sin utilizar directa o indirectamente la IA.
+
+Según McKinsey Global Institute (MGI) la automatización afectará entre 400 y 800 millones de personas, que serán desplazadas de sus puestos de trabajo en 2030 (aproximadamente el 14% de la fuerza laboral). Pero, por otro lado, según las predicciones del Foro Económico Mundial esta tecnología creará como mínimo 12 millones de puestos de trabajo más de los que eliminará.
+
+Como profesional, realizar una formación de IA es más que una tendencia; es una necesidad. Y si las predicciones anteriores no te convencieron, te damos algunos datos adicionales:
+
+ Democratización del conocimiento: La IA ya no es exclusiva de los expertos en informática. Las formaciones en IA ofrecen acceso a conocimientos fundamentales, independientemente de tu formación previa. Aprenderás sobre algoritmos y redes neuronales (que es la base de la IA) pero sobretodo aprenderás las aplicaciones prácticas de la IA en tu día a día.
+
+ Relevancia laboral: La IA está afecta a cualquier industria, a cualquier sector: desde la atención médica hasta el marketing, pasando por las organizaciones no gubernamentales o la educación. Y deberás saber independientemente de si eres el CEO, un desarrollador de software, un asesor laboral o un diseñador de producto. Automatizar tareas repetitivas o tomar decisiones basadas en datos recopilados con una rapidez que antes era impensable, son algunas posibilidades que te ofrece la IA. Poder hacer tu trabajo de forma distinta y más eficaz es ya una realidad. Por ello, tener conocimientos de IA te supondrá una ventaja profesional y a medio plazo será imprescindible para conseguir mejores puestos de trabajo.
+
+Habilidades a potenciar: Entre las habilidades que será necesario desarrollar/potenciar/mejorar en la era de la IA, se incluyen las siguientes:
+
+Pensamiento Analítico
+
+Comunicación tanto en la expresión oral como escrita
+
+Creatividad
+
+Administración de personas y liderazgo
+
+Inteligencia emocional
+
+Mentalidad orientada al crecimiento
+
+ Herramientas avanzadas: Herramientas como Chat GPT, Copilot, Perplexity, Gemini, LuzIA o Mistral y palabras como prompt o alucinaciones, …deberán ser conocidas por los profesionales.
+
+Desde Grup Essentia hemos creado un meme que refleja la situación actual de la IA en nuestras vidas.
+
+
+
+Yo dándome cuenta que necesito hacer el curso de IA: Imagina esa expresión de sorpresa cuando te das cuenta de la importancia de la IA en tu carrera. Es como abrir una puerta a un mundo nuevo de posibilidades.
+Yo tras hacer el curso de IA: Después de completar el curso, estarás como el meme: sonriendo y lleno de entusiasmo. Habrás adquirido habilidades valiosas y estarás listo para aplicar la IA en tu trabajo diario.
+En resumen, la IA es el futuro, y un curso especializado te preparará para enfrentarlo con confianza. ¡No pierdas la oportunidad de aprender y crecer en esta emocionante área! 🚀
+
+La inteligencia artificial es considerada la tecnología clave del futuro, facilita el trabajo de médicos, psicólogos, policías y podría reemplazar tanto a conductores de coches, como también a cualquier tipo de jugadores en red, y en todos los ámbitos de la vida cotidiana. La inteligencia artificial podría ayudarnos a tomar las mejores decisiones, tanto en un juego de ajedrez, como cuando conducimos y buscamos una dirección específica. También nos podrá orientar en un camino más corto y con menos tránsito, salir con un candidato u otro, etc.
+
+Según un análisis del video DW Documental, La voz multimedia de Alemania, en donde se realizó un estudio profundo de todos los aspectos positivos de la IA para la humanidad y también, aquellos que van en sentido opuesto a nuestro desarrollo como humanos, sus diferentes miradas en referencia al avance tecnológico, sus parámetros morales  y métodos que utiliza la IA para alcanzar un modelo humano sin errores; se evidencia las siguientes conclusiones:
+
+Su origen
+
+Según Antonio Casillo, sociólogo de la escuela superior de Telecom París: «fuimos conquistados en un principio por la automatización, que buscó reducir el esfuerzo físicos, es decir, la cantidad de fuerza empleada». Los molinos, por ejemplo, fueron considerados un proceso automático durante siglos, pero con el tiempo, esta lógica comenzó a aplicarse también al trabajo inmaterial o intelectual. Hoy en día, estamos frente a una nueva forma de automatización, que llamamos de manera general, inteligencia artificial. 
+
+En los años cincuenta, el desarrollo comienza a acelerarse de forma vertiginosa y se supone que la inteligencia artificial optimizará nuestras vidas. Se espera que conduzca coches, mejore la educación, nos guíe en una nutrición saludable, haga los mejores diagnósticos médicos, o encuentre en un chat inteligente la mejor manera de consolarnos.  
+
+Estos avances son limitados hasta el comienzo de la década del dos mil, cuando nuevos y poderosos ordenadores centrales comienzan a procesar enormes cantidades de datos.  
+
+Según Eric Sadin, filósofo, «estos sistemas pretenden digitalizar toda la realidad con el objetivo de saberlo todo en tiempo real«. Este propósito nos cautivó ya que tenía algo de “Divino”, sin tener en cuenta que gran parte de la realidad, escapa a la reducción digital.
+
+Cinthia Rudin, investigadora en informática de Duke University, afirma que se han producido grandes avances en el reconocimiento de imágenes, gracias al sistema de aprendizaje profundo: el aprendizaje de múltiples capas. El cual desencadenó una fiebre en el campo de la inteligencia artificial. Este sistema de reconocimiento de imágenes cometía errores, una cada tres veces, pero en el 2012 una tecnología basada en el aprendizaje automático pudo reducir la tasa de error al 15 por ciento.
+
+En la inteligencia artificial clásica basada en representaciones simbólicas, la máquina debía de ser alimentada con conocimiento. Luego se comprobó que el aprendizaje profundo funciona mucho mejor, porque se deja trabajar al propio ordenador, en lugar de decirle como procesar la información.
+
+El aprendizaje profundo tiene sus orígenes en la cibernética, un área de información donde los ingenieros informáticos toman varias inspiraciones de la neurociencia. Con este nuevo método, los programadores ya no le describen a la máquina como es un rostro, sino que la maquina lo aprende por sí misma. 
+
+El sistema se asemeja a una red de conexiones que siguen el modelo de nuestras neuronas del cerebro. Esta red neuronal artificial permite presentar una variedad de configuraciones, y así planificar o atenuar las señales entre las conexiones, para llegar a una señal de salida. Esta proporciona una respuesta final a una pregunta como, por ejemplo: ¿hay una cara en la foto? Es decir, una serie de fotos del rostro de una persona, sus partes como la frente, la nariz, el mentón, los labios o cejas hacen que el sistema interpreta finalmente que se trata de un rostro, y estos sistemas inteligentes, en una secuencia, ya pueden identificar, por ejemplo, un “rostro humano”. Claro que este modelo imita a todos los ejemplos que le han dado los mismos humanos.
+
+Hoy en día este modelo se encuentra en las máquinas de fotos o celulares capaces de enfocar directamente en los rostros, también en las salas de video vigilancia, en lectores de códigos postales o de matrículas. Investigadores de la Universidad de Míchigan, se propusieron estudiar hasta qué punto los sistemas son efectivos cuando se cambia ligeramente el aspecto de lo que se quiere informar.
+
+En clínicas de radiología, donde se están probando la tecnología de lectores automáticos, la inteligencia artificial todavía no asiste a los médicos, sino que estos deben de supervisarla y continuar entrenándola. Se trata de sistema muy frágiles que solo son útiles con imágenes muy parecidas a los datos de entrenamiento. 
+
+Si el sistema de datos de inteligencia artificial fue entrenado con un grupo de pacientes específico, es decir con datos muy específicos de un determinado grupo a estudiar, puede que no funcione en un entorno distinto. Los humanos pensamos de forma mas amplia, somos capaces de tener en cuenta cosas que no se encuentren necesariamente en una base de datos, podemos pensar en cómo funciona un modelo específico y decidir si confiar en el o no. La inteligencia artificial en cambio no puede hacer eso.
+
+Una controversia del hombre es que ha comenzado a humanizar a este sistema de aprendizaje profundo, con el que se basa el sistema de datos de la IA, el cual podrá proporcionar lo que ocurre en una imagen, pero nos olvidamos de que el modelo entiende solamente, eso que interpreta en una imagen o texto, y que no siente emocionalmente, lo que ahí, pueda ver. La forma en el que modelo relaciona una imagen con un texto, es un procedimiento completamente distinto a cuando los humanos, miramos una imagen y la describimos con palabras emotivas o con algún recuerdo de ellas.
+
+El conocimiento del mundo de estos sistemas es incompleto por definición, les falta la experiencia corporal, la experiencia visual, la asociación de palabras y aquello a lo que se refieren en el mundo real, a las interpretaciones puramente humanas. Mientras no sea posible incluir esta faceta, estos sistemas, seguirán siendo deficientes.
+
+En el ser humano, la experiencia hace que las cosas adquieran significado, la fuerza que hacemos al comer una manzana, el arrugar nuestra nariz cuando probamos algún jugo cítrico astringente, esa sensación que sentimos cuando nuestro cerebro asocia o busca en la memoria, como experimentamos al comer una rodaja de limón, en un momento dado o también en un supuesto imaginario, sin que no estemos probando ningún limón, aunque eso no suceda en la realidad, igual nuestro cerebro asocia en su memoria, lo que sentimos en nuestra boca, y se refleja instantáneamente como una sensación de ese momento. 
+
+En cambio, para un sistema informático se trata de una secuencia de pixeles vinculados a una información textual.
+
+Lo que quiero enfatizar, haciendo una mirada desde la neurofisiología de nuestro cerebro y haciendo relación a cómo funciona, es que nuestro exagerado deseo de perfección congela nuestro pensamiento, y no nos permite ver los usos potenciales de aprender de algunos errores. Esta es la otra mirada, con un valor fundamental, la que nos define como seres humanos, es la libertad de pensamiento, y es ahí, donde nos estamos reduciendo, en la medida en la que delegamos nuestras decisiones a un sistema informático. El objetivo de fondo es erradicar cualquier error, y para ello, estos sistemas deben tomar el control.
+
+Si nuestro cerebro cambiara a un sistema lógico de pensamiento, como funcionan los sistemas interpretativos de los sistemas de la IA; perderíamos nuestra flexibilidad mental, sería muy aburrido si fuéramos solamente lógicos, calculadores y totalmente libres de todo error. Después de todo no vivimos en un mundo estático. El cambio es lo que nos impulsa hacia adelante. Nos adaptamos al cambio en forma constante.
+
+Tan pronto como el cerebro comete un error no solamente trata de corregirlo, sino que también lo utiliza productivamente. Es precisamente debido a que un error ofrece el potencial de mejora a sistema con defectos, el que ha prevalecido, en nuestra evolución como humanos. Este es el precio que debe pagar por nuestra capacidad de permanecer flexibles. El arte no es evitar los errores. Cualquiera que trate de evitar los errores se volverá tan aburrido como una computadora. Y, lo que es peor, reemplazable. Entonces tarde o temprano, los algoritmos serán capaces de evitar los errores y realizar una acción en forma eficiente y sin errores. Pero reconocer que un error puede tener una finalidad, es esa capacidad que solamente tenemos los humanos. Ahora comprendemos que el cerebro casi sistemáticamente incorpora los errores para examinarlos y así alterar su conducta. Y esta es una lección muy importante para aprender: “errar es humano” y, para el cerebro, es extremadamente útil.
+
+Si nunca nos equivocamos, nunca podríamos cambiar. Entonces no solamente seríamos incapaces de aprender y muy aburridos, también, tarde o temprano, seríamos cambiados por las más eficientes computadoras. La característica única del pensamiento humano yace precisamente en que no es exacto ni perfecto. Nuestro pensamiento propenso al error es la única cosa que nos hace superior a las computadoras. Esencialmente nuestra “debilidad” en el pensamiento es realmente nuestra más grande arma secreta mental. 
+
+De este análisis anterior, y hablando de emociones, nuestra “debilidad humana”, también nos podríamos preguntar, ¿Cómo es que la inteligencia Artificial interpreta las emociones de una imagen o en un mensaje?, ya que las mismas delatan a los humanos, en las micro gesticulaciones que se evidencian en nuestros rostros cuando transitamos por alguna de ellas.
+
+A pesar de su rudimentario sistema de percepción, los avances en el reconocimiento automático de imágenes, en los sistemas interpretativos de la IA, han profundizado el sueño, de que las máquinas puedan desarrollar emociones, e incluso nos puedan ayudar a reconocer los sentimientos y emociones mas ocultos de nuestros semejantes. Pudiendo reconocer más de veinte intensidades emocionales.
+
+De aquí nacen estas preguntas: ¿Podrá la Inteligencia Artificial, al fin decirnos que siente la Mona Lisa por Da Vinci en una imagen que represente la obra?
+
+¿Cómo se desarrolla un detector automático de emociones de este tipo?
+En primer paso es hacer una lista de emociones a partir de la variedad interminable de nuestros estados de ánimo. Tras una investigación en Nueva Guinea, con el científico Paul Ekman, psicólogo estadounidense pionero en el estudio de las emociones y su expresión facial, se evidenció que la humanidad comparte seis sentimientos universales que inevitablemente pueden ser leídos en nuestros rostros, estos son: alegría y tristeza, asco e ira, sorpresa y miedo.
+
+Esta teoría de Paul Ekman evalúa el estudio de las emociones en su micro mímica, donde se evidencia y afirma la existencia de la verdad de las personas expresadas en su rostro.
+
+Aunque esta clasificación es muy controvertida para los científicos, suele servir de base para todos los informáticos en el reconocimiento de emociones, justamente por su sencillez.
+
+Estas seis emociones universales son el punto de partida. El segundo paso es conseguir que clasificadores humanos asignen miles de caras a estas seis categorías, de esta forma se crean los datos de entrenamiento para las máquinas. Finalmente comienza el aprendizaje automático, hasta que el sistema informático logra arrojar los mismos resultados que los clasificadores humanos. Una vez hallada la mejor configuración, los sistemas se convierten en una herramienta que todos los programadores utilizan como detectores universales de emociones.
+
+Se considera que a través de estos avances se puede creer en la la idea de construir detectores de mentiras con los que se podría evaluar a un sospechoso y determinar si miente o no, lo que de alguna forma definirá si es liberado o puesto en prisión.
+
+En la inteligencia Artificial, el análisis de las emociones se hace combinando las micro mímicas con el tono de voz. Y en estudios de imágenes y rostros en obras de arte, se llegó a esta conclusión: “No sienten nada”.
+
+La IA no tiene papilas gustativas, por lo tanto, tampoco tiene idea del delicioso gusto de un pastel de limón que revive el recuerdo de una tía o abuela. Tampoco ha sentido adrenalina en el cuerpo y la sensación que esta causa en un buen partido bien jugado. No sabe del significado de llenarse los ojos de lágrimas al emocionarse en una película, o sentir cuando nuestra nariz gotea por pura emoción. No tiene miedo de nada, no se le eriza la piel, no conoce el dolor físico ni tampoco el placer. No tiene opinión de un arte abstracto ni tampoco algún trauma reprimido, por lo tanto, no posee ninguna emoción que quiera expresar. 
+
+Podemos evidenciar que las industrias informáticas, sueñan con resaltar en los robots humanoides, dos aspectos que distinguen las capacidades humanas, hablamos de la lógica humana, versus la lógica informática, esta última, aún presenta aspectos no desarrollados.
+
+El verdadero talento de estas redes neuronales no es tanto imitar las cualidades humanas, sino asimilar enormes bases de datos, para clasificar, analizar, y deducir correlaciones, ayudando de esta manera, a los humanos, a comprender códigos complejos como, por ejemplo, comprender el campo magnético cuántico, o también juega un papel importante en el campo farmacéuticos que determina infinitas combinaciones de químicos para una determinada enfermedad.
+
+Una gran desventaja desde el punto de vista social es proveniente de la psicología social, ya que sondea nuestros comportamientos estereotipados, los que son las bases de sistemas informáticos los cuales pretenden orientarnos en decisiones personales y colectivas.
+
+En estos tipos de sistemas con los que funciona la IA, siempre existe resultados sesgados, estos sesgos pueden deberse, por ejemplo, a la existencia de prejuicios en los datos de entrenamiento, uno es consciente de que ese dato de entrenamiento fue agregado por un ser humano, el que tal vez, tenga un juicio sesgado con un determinado análisis del dato aportado. Por lo tanto, el resultado del sesgo deja la evidencia.
+
+El contexto social, psicológico y moral, seguirá siendo incomprensible para los ordenadores, pero si estos sistemas carecen de un criterio más completo, del as cuales el hombre suele hacerse estas preguntas: ¿cómo es qué la inteligencia Artificial se basa, para tomar una decisión?
+
+En estadísticas se evidencia que estas conducen a discriminación racial y de género. Si el sistema penal es racista, los datos también van a estar sesgados racialmente.
+
+El avance de la inteligencia Artificial encaja perfectamente en toda nuestra pereza fundamental, porque en estos tiempos, nos ofrece la comodidad de hacerse cargo de parte de nuestras tareas cotidianas. Pero en una mirada opuesta, vemos que, en la actualidad, uno de los mayores desafíos del hombre, es tomar las riendas de su destino individual o en colectivo, sin embargo, y con el avance de la IA, es la que nos orienta a que hagamos todo lo contrario, y en muchos ámbitos sociales.
+
+Las inteligencias artificiales, nunca alcanzan un nivel de rendimiento total, que haga prescindibles a los humanos, originando una nueva profesión, la de asistente humano de máquinas en apuros. Esta nueva forma de trabajo humano, detrás de los llamados sistemas inteligentes artificiales, fue inventado por el gigante tecnológico Amazon, donde las personas hacen a mano, por así decirlo, el trabajo necesario para que los algoritmos funcionen. El riesgo que plantea la toma de cada decisión algorítmica está dado ya que no se conoce como es que fueron tomadas las decisiones de la IA, ya que solo son visibles sus resultados.
+
+Estamos ante una situación paradójica, por un lado, se pide a las personas que hagan lo que los robots o los procesos automáticos no son capaces de hacer, por otro lado, los empleados se enfrentan a un trabajo cuyo margen de acción o autonomía es menor que antes, controlados por una inteligencia artificial que estudia parámetros de objetivos y métricas.
+
+Estos sistemas interpretativos sirven para dinamizar la optimización y la productividad sin permitir la negociación de quien interactúa en esa dinámica. El trabajo de las personas está sometido a los controles de las máquinas que calculan la optimización del flujo de productos, ellas determinan el ritmo de los procesos y las personas son reducidas a funcionar como robots de carne y hueso.
+
