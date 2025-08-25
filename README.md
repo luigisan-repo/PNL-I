@@ -1,13 +1,12 @@
 
+# Que es **procesamiento del lenguaje natural (PLN)**
+
 Entendemos por **procesamiento del lenguaje natural (PLN)**, o NLP por sus siglas en inglés, es una rama de la inteligencia artificial que se enfoca en enseñar a las computadoras a entender, interpretar y manipular el lenguaje humano. El objetivo principal es cerrar la brecha entre la comunicación humana (lenguaje natural) y la comprensión de las máquinas, permitiendo que las computadoras realicen tareas como la traducción automática, el análisis de sentimientos, la creación de chatbots y la generación de resúmenes de texto.
 
-A continuación, se presenta un resumen de lo que se hace y se aprende a través de los cuatro desafíos de NLP:
 
 
 <div style="text-align: right;">
-
     <h1 style="display: inline-block;margin: 0;padding: 8px 16px;color: white;background: linear-gradient(to right,rgb(17, 75, 141), #4CAF50);border-radius: 12px;font-size: 1.8rem;box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);"> Desafíos  </h1>
-
 </div>
 
 
